@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Get Started
 
-## Getting Started
+Maximize skill, minimize budget
 
-First, run the development server:
+Our modern courses across a range of in-demand skills will give you the
+knowledge you need to live the life you want.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Get Started
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Check out our most popular courses!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Animation
+Learn the latest animation techniques to create stunning motion
+design and captivate your audience.
+Get Started
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Design
+Create beautiful, usable interfaces to help shape the future of
+how the web looks.
+Get Started
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Photography
+Explore critical fundamentals like lighting, composition, and focus
+to capture exceptional photos.
+Get Started
 
-## Learn More
+Crypto
+All you need to know to get started investing in crypto. Go from beginner
+to advanced with this 54 hour course.
+Get Started
 
-To learn more about Next.js, take a look at the following resources:
+Business
+A step-by-step playbook to help you start, scale, and sustain your business
+without outside investment.
+Get Started
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Get Started
